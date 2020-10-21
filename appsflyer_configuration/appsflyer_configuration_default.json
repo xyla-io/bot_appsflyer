@@ -1,0 +1,19 @@
+{
+  "email": "EMAIL",
+  "password": "PASSWORD",
+  "company_name": "COMPANY",
+  "schema": "SCHEMA",
+  "table": "TABLE",
+  "confirm_upload": false,
+  "app_ids": {
+    "ios": "IOSID",
+    "android": "ANDROIDID"
+  },
+  "report_groupings": [
+    "Media Source",
+    "Country",
+    "Campaign ID",
+    "Date"
+  ],
+  "report_start_date": "YYYY-MM-DD"
+}

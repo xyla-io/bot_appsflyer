@@ -1,0 +1,1 @@
+from .appsflyer_scraper import AppsFlyerBot as Bot
